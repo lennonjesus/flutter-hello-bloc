@@ -1,0 +1,10 @@
+# Created by https://www.gitignore.io/api/flutter
+# Edit at https://www.gitignore.io/?templates=flutter
+
+### Flutter ###
+.flutter-plugins
+
+# End of https://www.gitignore.io/api/flutter
+
+.iml
+.idea
